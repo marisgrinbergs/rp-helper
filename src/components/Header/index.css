@@ -1,0 +1,22 @@
+p {
+  font-weight: bolder;
+  color: aliceblue;
+  order: 3;
+  margin-right: auto;
+  margin-left: 40px;
+  padding-top: 5px;
+}
+
+.Header {
+  display: flex;
+  align-items: stretch;
+  flex-direction: row-reverse;
+  background-color: #e3771c;
+  border-radius: 10%;
+  height: 60px;
+}
+
+.Header_Button {
+  margin: 10px;
+  padding: 10px;
+}
