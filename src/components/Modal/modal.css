@@ -1,0 +1,38 @@
+#Modal_Mother {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 30%;
+  height: 30%;
+}
+
+.Modale {
+  position: sticky;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  background-color: whitesmoke;
+  margin: 30px;
+  border: solid;
+  border-radius: 5px;
+  box-sizing: content-box;
+  z-index: 1000;
+
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 30%;
+  height: 30%;
+}
+
+.Form {
+}
