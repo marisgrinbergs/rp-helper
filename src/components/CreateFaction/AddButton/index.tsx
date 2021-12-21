@@ -18,7 +18,7 @@ import './index.css';
 
 const FloatingActionButtons: React.FC<{onClick?: React.MouseEventHandler<HTMLElement>}> = ({onClick}) => {
   return (
-      <Fab color="primary" aria-label="add" style={{ width: 100, height: 100 }} >
+      <Fab color="primary" aria-label="add" style={{ width: 100, height: 100 }} onClick={onClick}>
         <AddIcon style={{ width: 50, height: 50 }} />
       </Fab>
   );
