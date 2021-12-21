@@ -1,11 +1,12 @@
 .createfaction {
-margin: auto;
-display: flex;
-flex-direction: column;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .createfaction-name {
-    font-family: cursive;
-    font-weight: 500;
-    font-size: 80px;
+  font-family: cursive;
+  font-weight: 500;
+  font-size: 80px;
 }

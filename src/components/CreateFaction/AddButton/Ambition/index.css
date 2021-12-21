@@ -1,0 +1,7 @@
+.ambition {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border: 5px solid rgba(0, 0, 0, 1);
+  border-radius: 50%;
+}
